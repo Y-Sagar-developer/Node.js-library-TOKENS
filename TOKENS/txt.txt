@@ -1,0 +1,15 @@
+{
+  "name": "karthik",
+  "email": "karthik@gmail.com",
+  "password": "password123",
+  "role": "developer"
+}
+
+
+{
+  "username": "karthik",
+  "password": "password123"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoia2FydGhpayIsInJvbGUiOiJkZXZlbG9wZXIiLCJpYXQiOjE3NDA0ODM4NTJ9.hYmiKWTlllUO4tA9km8ymSiP5l7foV2B9YeLxtWkIaE
